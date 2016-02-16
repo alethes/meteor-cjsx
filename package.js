@@ -13,5 +13,5 @@ Package.registerBuildPlugin({
   sources: [
     'compile-cjsx.js'
   ],
-  npmDependencies: {"coffee-react-transform": coffeeReactVersion, "coffee-script": "1.7.1", "source-map": "0.1.32"}
+  npmDependencies: {"coffee-react-transform": coffeeReactVersion, "coffee-script": "1.10.0", "source-map": "0.1.32"}
 });
